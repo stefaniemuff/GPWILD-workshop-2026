@@ -1,0 +1,16 @@
+body {
+  background-image: url("images/dice.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+}
+
+/* Content box for readability */
+.main-container {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 2em;
+  max-width: 800px;
+  margin: 3em auto;
+  border-radius: 8px;
+}
