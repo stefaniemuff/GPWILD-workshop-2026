@@ -8,7 +8,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib, literature.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: stefaniemuff/errorBook
+github-repo: stefaniemuff/GPWILD-workshop-2026
 cover-image: "images/dice.png"
 description: "Fylkemannsboligen, Elvegata 17, Trondheim, Norway"
 ---
