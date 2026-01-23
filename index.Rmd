@@ -1,7 +1,7 @@
 --- 
-title: "2 day-Workshop Genomic Prediction in the Wild"
-subtitle: "A kick-of meeting for GPWILD project"
-author: "Organizer: Stefanie Muff"
+title: "Genomic Prediction in the Wild"
+subtitle: "A 2-day kick-off workshop for the GPWILD project"
+author: "Organizer: Stefanie Muff, NTNU"
 date: "18.-19. March 2026"
 site: bookdown::bookdown_site
 documentclass: book
@@ -9,9 +9,44 @@ biblio-style: apalike
 link-citations: yes
 github-repo: stefaniemuff/GPWILD-workshop-2026
 cover-image: "images/dice.png"
-description: "Fylkemannsboligen, Elvegata 17, Trondheim, Norway"
+description: ""
+output:
+  html_document:
+    css: style.css
 ---
 
-# Preface {-}
+#### Location: [Fylkemannsboligen, Elvegata 17, Trondheim, Norway](https://maps.app.goo.gl/K6CSBqe6hRB1CZCZ6)
 
-Check it out
+
+### Schedule Wednesday, 18. March 2026
+
+| Time        | Session   | Speaker | 
+|-------------|-----------|---------|
+| 08:30–09:00 |  Arrival & coffee | |
+| 09:00–09:30 | Welcome and introduction  | Stefanie Muff | 
+| 09:30–10:10 | Overview over the methodological landscape for genomic prediction in wild populations | Janet Chik |
+| 10:10–10:40 | Coffee |  
+| 10:40–11:20 | Genomic prediction across populations | Kenneth Aase |
+| 11:20–12:00 | SNP importance measures as alternatives to GWAS | Gard W. Gravdal |
+| 12:00–13:00 | Lunch |
+| 13:00–13:40 |   | ... |
+| 13:40–14:20 |   | ... |
+| 14:20–14:50 | Coffee  |  
+| 14:50–15:30 |    | ... |
+| 15:30       | Socializing, discussing, mingling, take a break  | ... |
+| 18:30       | Dinner  | ... |
+
+### Schedule Thursday, 19. March 2026
+
+| Time        | Session | Speaker | 
+|-------------|---------|---------|
+| 08:30–09:00 |  Arrival & coffee | |
+| 09:00–09:30 |   |   | 
+| 09:30–10:10 | ... |   |
+| 10:10–10:40 | Coffee |  
+| 10:40–11:20 |   |   |
+| 11:20–12:00 |   |  |
+| 12:00–13:00 | Lunch |
+| 13:00–13:40 |   | ... |
+| 13:40–14:20 |   | ... |
+| 14:20–15:00 |  Wrapping up and way forward  | ... |
